@@ -6,6 +6,7 @@
   "description": "Modern JavaScript date utility library",
   "repository": "https://github.com/date-fns/date-fns",
   "typings": "./typings.d.ts",
+  "sideEffects": false,
   "engine": {
     "node": ">= 0.11"
   },
